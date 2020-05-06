@@ -1,0 +1,29 @@
+
+body {
+  background-color: #9EB7E5;
+}
+
+h1 {
+  text-decoration: underline;
+  margin: 40px auto;
+}
+
+/* h1, #mad-lib-form {
+  color: #FFF;
+} */
+
+.btn {
+  margin-bottom: 20px;
+}
+
+#story-body {
+  display: none;
+  margin-bottom: 20px;
+  padding: 20px;
+  line-height: 1.5em;
+  background-color: #304C89;
+  border: 1px solid #648DE5;
+  color: #FFF;
+  border-radius: 5px;
+  font-size: 1.5em;
+}
