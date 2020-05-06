@@ -1,12 +1,12 @@
-# Mad Lib Style Storytime
+# Mad Lib Style Storytime Version 2
 
-#### jQuery, Javascript and Forms Exercise for Epicodus, 04.21.2020
+#### jQuery, Javascript Loops and Forms Exercise for Epicodus, 05.05.2020
 
 #### By Brittany Lindgren
 
 ## Description
 
-The purpose of this project is to use javascript, jQuery and forms to build a mad lib style page that will take in different values and complete a story.
+The purpose of this project is to use javascript, jQuery, loops and forms to build a mad lib style page that will take in different values and complete a story.
 
 ## Setup/Installation Requirements
 
